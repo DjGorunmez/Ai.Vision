@@ -1,5 +1,6 @@
 Quantum Computing: Ai.Vision. 
 Detect face/body/qrcode/allobjects in c#.
+Code base with examples.
 
 Internal usage of the package Emugu.CV. (download from nuget or restore all packages).
 
