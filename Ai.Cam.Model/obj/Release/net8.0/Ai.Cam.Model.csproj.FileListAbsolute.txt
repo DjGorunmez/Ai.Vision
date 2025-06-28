@@ -1,0 +1,12 @@
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\bin\Release\net8.0\Ai.Cam.Model.deps.json
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\bin\Release\net8.0\Ai.Cam.Model.dll
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\bin\Release\net8.0\Ai.Cam.Model.pdb
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\Ai.Cam.Model.csproj.AssemblyReference.cache
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\Ai.Cam.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\Ai.Cam.Model.AssemblyInfoInputs.cache
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\Ai.Cam.Model.AssemblyInfo.cs
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\Ai.Cam.Model.csproj.CoreCompileInputs.cache
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\Ai.Cam.Model.dll
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\refint\Ai.Cam.Model.dll
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\Ai.Cam.Model.pdb
+C:\TFS\Ai.Cam.App\Ai.Cam.Model\obj\Release\net8.0\ref\Ai.Cam.Model.dll

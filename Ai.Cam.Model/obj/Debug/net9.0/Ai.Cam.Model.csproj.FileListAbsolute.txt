@@ -1,0 +1,12 @@
+C:\TFS\Ai.Vision\Ai.Cam.Model\bin\Debug\net9.0\Ai.Cam.Model.deps.json
+C:\TFS\Ai.Vision\Ai.Cam.Model\bin\Debug\net9.0\Ai.Cam.Model.dll
+C:\TFS\Ai.Vision\Ai.Cam.Model\bin\Debug\net9.0\Ai.Cam.Model.pdb
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\Ai.Cam.Model.csproj.AssemblyReference.cache
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\Ai.Cam.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\Ai.Cam.Model.AssemblyInfoInputs.cache
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\Ai.Cam.Model.AssemblyInfo.cs
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\Ai.Cam.Model.csproj.CoreCompileInputs.cache
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\Ai.Cam.Model.dll
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\refint\Ai.Cam.Model.dll
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\Ai.Cam.Model.pdb
+C:\TFS\Ai.Vision\Ai.Cam.Model\obj\Debug\net9.0\ref\Ai.Cam.Model.dll

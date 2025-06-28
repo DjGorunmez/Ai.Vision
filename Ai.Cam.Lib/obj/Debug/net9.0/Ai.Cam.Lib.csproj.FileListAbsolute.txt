@@ -1,0 +1,15 @@
+C:\TFS\Ai.Vision\Ai.Cam.Lib\bin\Debug\net9.0\Ai.Cam.Lib.deps.json
+C:\TFS\Ai.Vision\Ai.Cam.Lib\bin\Debug\net9.0\Ai.Cam.Lib.dll
+C:\TFS\Ai.Vision\Ai.Cam.Lib\bin\Debug\net9.0\Ai.Cam.Lib.pdb
+C:\TFS\Ai.Vision\Ai.Cam.Lib\bin\Debug\net9.0\Ai.Cam.Model.dll
+C:\TFS\Ai.Vision\Ai.Cam.Lib\bin\Debug\net9.0\Ai.Cam.Model.pdb
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.csproj.AssemblyReference.cache
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.AssemblyInfoInputs.cache
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.AssemblyInfo.cs
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.csproj.CoreCompileInputs.cache
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.csproj.Up2Date
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.dll
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\refint\Ai.Cam.Lib.dll
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\Ai.Cam.Lib.pdb
+C:\TFS\Ai.Vision\Ai.Cam.Lib\obj\Debug\net9.0\ref\Ai.Cam.Lib.dll
